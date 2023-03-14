@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zack1o1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning Python
 - 📫 How to reach me on insta lalitrajbanshi_ 
 
 <!---
