@@ -5,9 +5,7 @@
 ## About Me
 I am a passionate developer who loves building web and mobile applications. I enjoy learning new technologies and improving my coding skills. Currently, I am focused on java.
 
-- 🔭 I’m currently working on Java Projects
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java Projects
+- 🔭 I’m currently exploring next js
 - 💬 Ask me about my programming journey
 - 📫 How to reach me:  [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/24px-Instagram_icon.png)](https://www.instagram.com/lalitrajbanshi_)
 
