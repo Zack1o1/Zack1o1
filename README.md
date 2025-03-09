@@ -3,7 +3,7 @@
 # Hi there, I'm Lalit Rajbanshi👋
 
 ## About Me
-I am a passionate developer who loves building web and mobile applications. I enjoy learning new technologies and improving my coding skills. Currently, I am focused on java.
+I am a passionate developer who loves building web and mobile applications. I enjoy learning new technologies and improving my coding skills.
 
 - 🔭 I’m currently exploring next js
 - 💬 Ask me about my programming journey
