@@ -9,11 +9,6 @@ I am a passionate developer who loves building web and mobile applications. I en
 - 💬 Ask me about my programming journey
 - 📫 How to reach me:  [![Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/24px-Instagram_icon.png)](https://www.instagram.com/lalitrajbanshi_)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zack1o1&show_icons=true&theme=dark&langs_count=8)
-
-
-
 ## Skills
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
